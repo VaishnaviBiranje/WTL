@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title>Python Basics</title>
+        <author>Bhakti Patil</author>
+        <year>2021</year>
+    </book>
+    <book>
+        <title>Learn XML</title>
+        <author>Jane Smith</author>
+        <year>2020</year>
+    </book>
+    <book>
+        <title>Data Base</title>
+        <author>Vaishnavi Biranje</author>
+        <year>2021</year>
+    </book>
+    <book>
+        <title>Machine Learning</title>
+        <author>Radhika Nene</author>
+        <year>2021</year>
+    </book>
+    <book>
+        <title>Operating System</title>
+        <author>Aditi Patil</author>
+        <year>2021</year>
+    </book>
+    
+</books>

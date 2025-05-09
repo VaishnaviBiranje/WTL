@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="grocery.css"?>
+<grocery-billing>
+    <item>
+        <name>Apple</name>
+        <price>2.50</price>
+        <quantity>3</quantity>
+        <total>7.50</total>
+    </item>
+    <item>
+        <name>Banana</name>
+        <price>1.20</price>
+        <quantity>5</quantity>
+        <total>6.00</total>
+    </item>
+    <item>
+        <name>Milk</name>
+        <price>1.80</price>
+        <quantity>2</quantity>
+        <total>3.60</total>
+    </item>
+    <item>
+        <name>Eggs</name>
+        <price>3.00</price>
+        <quantity>1</quantity>
+        <total>3.00</total>
+    </item>
+    <item>
+        <name>Bread</name>
+        <price>2.00</price>
+        <quantity>2</quantity>
+        <total>4.00</total>
+    </item>
+    <subtotal>24.10</subtotal>
+    <tax>2.41</tax>
+    <total-amount>26.51</total-amount>
+</grocery-billing>

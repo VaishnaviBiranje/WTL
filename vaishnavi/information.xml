@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.css"?>
+<students>
+    <student>
+        <id>001</id>
+        <name>Vaishnavi Biranje</name>
+        <age>21</age>
+        <grade>A</grade>
+        <courses>
+            <course>Database</course>
+            <course>Operating System</course>
+            <course>Java</course>
+        </courses>
+    </student>
+
+    <student>
+        <id>002</id>
+        <name>Kirti Gathkamble</name>
+        <age>22</age>
+        <grade>A</grade>
+        <courses>
+            <course>Python</course>
+            <course>Biology</course>
+            <course>Compiler Designing</course>
+        </courses>
+    </student>
+
+    <student>
+        <id>003</id>
+        <name>Aditi Patil</name>
+        <age>21</age>
+        <grade>A</grade>
+        <courses>
+            <course>Computer Science</course>
+            <course>Application of AIML</course>
+            <course>C++</course>
+        </courses>
+    </student>
+</students>

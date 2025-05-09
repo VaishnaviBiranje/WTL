@@ -1,0 +1,13 @@
+.from {
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 20px;
+    border: 2px solid #222425; 
+    border-radius: 8px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.img1{
+    display: inline-block;
+}
